@@ -1,0 +1,14 @@
+.sidebar {
+    width: 12%;
+    height: inherit;
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    transform: rotatez(180deg);
+    font-size: 4.5vw;
+}
+
+.content {
+    width: 88%;
+    height: inherit;
+    color: #fff;
+}
